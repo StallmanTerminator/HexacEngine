@@ -2,4 +2,4 @@
 
 Kernel source-code folder.
 
-You can compile it with *Makefile* and *build.cwc*
+Build it with *Makefile* and *build.cwc*.
